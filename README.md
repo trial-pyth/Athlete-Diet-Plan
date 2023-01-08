@@ -5,15 +5,18 @@ PHP and MySQL website to add and delete diet plan
 
 ### __📝 Add a diet plan by clicking on `add diet`__
 
-<img src="https://raw.githubusercontent.com/trial-pyth/Athlete-Diet-Plan/master/gif/add-plan.gif" alt="add=plan" height=300 />
+⌛ Please wait until GIF loads
+<img src="https://raw.githubusercontent.com/trial-pyth/Athlete-Diet-Plan/master/gif/add-plan.gif" alt="add=plan ⌛ loading" height=300 />
 
 
 ###  __❌ Delete a plan by clicking on `show more`__
 
+⌛ Please wait until GIF loads
 <img src="https://raw.githubusercontent.com/trial-pyth/Athlete-Diet-Plan/master/gif/delete-plan.gif" alt="add=plan" height=300 />
 
 ### __📌 Details are stored in a `MySQL` Database__
 
+⌛ Please wait until GIF loads
 <img src="https://raw.githubusercontent.com/trial-pyth/Athlete-Diet-Plan/master/gif/mysql_db.PNG" alt="add=plan" height=200 />
 
 
